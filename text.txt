@@ -1,0 +1,19 @@
+# Git Comands
+ > git status
+ > git add
+ > git commit
+ > git push
+
+# Team Work
+ > git pull = git fetch + git merge
+ > git merge
+ > git conflict
+ > git checkout branch/commit
+# Git branch
+ > git checkout -b haitn
+ > git branch
+ > git status
+ > git add
+ > git commit
+ > git push origin haitn
+ > git checkout master
